@@ -40,5 +40,5 @@ Pick any user and use:
 git clone https://github.com/Raveena99999/CRM_PROJECT.git
 cd CRM_PROJECT
 npm install
-npm start
+npm run dev
 
