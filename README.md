@@ -11,8 +11,7 @@ This is a simple CRM Dashboard web application built with **React**, **Redux Too
 
 ## 🚀 Live Preview
 
-_(Optional: Add your live link here if deployed)_
-
+https://crm-project-gold-zeta.vercel.app/
 ## 📦 Tech Stack
 
 - React
